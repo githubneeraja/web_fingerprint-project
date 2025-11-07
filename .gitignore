@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+web_fingerprint_env/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Excel files (optional)
+*.xlsx
+*.xls
